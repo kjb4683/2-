@@ -1,5 +1,4 @@
 a=""
-b=""
 for i in range (2,10):
     a= a+("# %d단 # " %i)
 print(a)
